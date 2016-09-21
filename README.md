@@ -1,7 +1,7 @@
 # AmendmentXXVIII
 The 28th Amendment to the United States Constitution
 
-Intent: To create a law that will foster a fair and open conversation abou tthe most important political issues and solutions of any election. 
+Intent: To create an environment that will foster a fair and open conversation about the most important political issues and solutions of any election or political action. 
 
 Methods: Debate, Campaign, etc.,
 
